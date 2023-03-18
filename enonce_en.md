@@ -17,3 +17,7 @@ People will be arriving from countries all over earth to reside and work in the 
 ### Password validation service (500 points)
 
 As always, security is a must. A new password validation service must be implemented that will be used with all new software created and used in the new underwater cities. This will be done in **C++** and all the details can be found here : [Password validator challenge](C++/validationMDP_en.md)
+
+## Submission
+
+To submit your code, create a ZIP file that contains **ALL** your files and send it to [jean-philippe.larouche1@uqac.ca](mailto:jean-philippe.larouche1@uqac.ca). **Do not forget to include your team name.**
