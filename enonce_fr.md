@@ -17,3 +17,7 @@ Des gens arriveront de pays du monde entier pour résider et travailler dans les
 ### Service de validation de mot de passe (500 points)
 
 Comme toujours, la sécurité est une obligation. Un nouveau service de validation de mot de passe doit être mis en place qui sera utilisé avec tous les nouveaux logiciels créés et utilisés dans les nouvelles villes sous-marines. Cela se fera en **C++** et tous les détails peuvent être trouvés ici : [Challenge de validation de MDP](C++/validationMDP_fr.md)
+
+## Remise
+
+Pour la remise de votre code, svp placer **TOUS** vos fichiers dans un ZIP et envoyer le tout à [jean-philippe.larouche1@uqac.ca](mailto:jean-philippe.larouche1@uqac.ca). **N'oubliez surtout pas d'iniquier votre nom d'équipe.**
